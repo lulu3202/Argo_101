@@ -48,6 +48,8 @@
   ```bash
   python app.py
   ```
+   ![image](https://github.com/user-attachments/assets/ee085ced-095c-478b-8ba9-84e9809f4e2b)
+
 
 ### **2. Using Memory & Tools (`agent_memory.py`)**
 - This script integrates:
@@ -98,6 +100,7 @@
     http://localhost:7777
     ```
   - This allows local testing before production deployment.
+![image](https://github.com/user-attachments/assets/7cec31b7-ac69-474b-9e9a-d474f892547f)
 
 ---
 
